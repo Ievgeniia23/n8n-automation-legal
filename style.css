@@ -1,6 +1,6 @@
 .container {
   padding: 60px;
-  background-color: #B3E5FC; 
+  background-color: #E6F7FF; 
  
   border: 1px solid gray;
   display: flex;
@@ -8,10 +8,8 @@
   justify-content: center;
   align-content: center;
 }
-h1 {
-  text-align: center;
-}
+
   p {
-    font-weight: 28px;
+    font-weight: 32px;
   
   
