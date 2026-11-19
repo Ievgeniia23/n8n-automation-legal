@@ -1,9 +1,13 @@
 .container {
+  padding: 60px;
   background-color: light-blue;
   border: 1px sold gray;
   display:flex;
   justify-content:center;
   align-content:center;
+}
+h1 {
+  position:center;
 }
   
   
