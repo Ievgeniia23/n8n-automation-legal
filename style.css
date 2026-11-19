@@ -1,6 +1,6 @@
 .container {
   padding: 60px;
-  background-color: light-blue;
+  background-color: lightblue;
   border: 1px solid gray;
   display:flex;
   flex-direction:column;
@@ -8,7 +8,7 @@
   align-content:center;
 }
 h1 {
-  position:center;
+  text-align:center;
 }
   
   
